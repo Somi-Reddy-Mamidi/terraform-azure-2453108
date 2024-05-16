@@ -31,11 +31,23 @@ Some branches will have a beginning and an end state. These are marked with the 
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 
-### Instructor
+![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/0b30d23b-698f-4c05-9764-1b95faa90991)
 
-Alexandra Illarionov 
-                            
-Cloud Solutions Engineer
+![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/79dfb624-5da3-449e-b306-61a5894865fb)
+
+
+![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/3083bd8e-1c70-4424-ba41-f7788a932fdd)
+
+
+
+
+**What is Terraform State ?**
+The state file maps real world resources to your
+configuration, keeps track of metadata, and improves 
+performance for large infrastructures.
+
+
+
 
                             
 
