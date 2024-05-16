@@ -42,9 +42,14 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 
 **What is Terraform State ?**
+
 The state file maps real world resources to your
 configuration, keeps track of metadata, and improves 
 performance for large infrastructures.
+Default stored in a local file called terraform.tfstate
+
+- Resource Blocks are the most important part of Terraform
+- Resource blocks describe one or more infrastructure objects
 
 
 
