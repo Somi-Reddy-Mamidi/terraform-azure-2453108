@@ -52,6 +52,14 @@ Default stored in a local file called terraform.tfstate
 - Resource blocks describe one or more infrastructure objects
 
 
+  ```
+  resource "azurerm_resource" "example" {
+  name = "learn-tf-example"
+  location = "eastus"
+  }
+  ```
+
+
 
 
                             
