@@ -59,6 +59,8 @@ Default stored in a local file called terraform.tfstate
   }
   ```
 
+  [Terraform Registry](https://registry.terraform.io/providers/hashicorp/azurerm/latest)
+
 
 
 
