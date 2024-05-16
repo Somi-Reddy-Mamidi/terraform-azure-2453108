@@ -82,5 +82,14 @@ provider "azurerm" {
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alexandra-illarionov).
 
+### Resource Group 
+
+```
+resource "azurerm_resource_group" "example" {
+  name     = "example"
+  location = "West Europe"
+}
+```
+
 [lil-course-url]: https://www.linkedin.com/learning/introduction-to-terraform-on-azure
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2453108/2453108-1652374458166-16x9.jpg
