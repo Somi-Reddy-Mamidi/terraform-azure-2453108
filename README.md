@@ -59,6 +59,20 @@ Default stored in a local file called terraform.tfstate
   }
   ```
 
+```
+terraform {
+  required_providers {
+    azurerm = {
+      source = "hashicorp/azurerm"
+      version = "3.103.1"
+    }
+  }
+}
+
+provider "azurerm" {
+  # Configuration options
+}
+```
   [Terraform Registry](https://registry.terraform.io/providers/hashicorp/azurerm/latest)
 
 
