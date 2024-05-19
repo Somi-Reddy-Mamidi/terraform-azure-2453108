@@ -99,3 +99,7 @@ resource "azurerm_resource_group" "example" {
 ![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/b8fb42e8-8191-4eb9-85b2-407d45b0de2e)
 
 
+![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/02171372-c938-488c-8eeb-c4eaeda8b021)
+
+
+
