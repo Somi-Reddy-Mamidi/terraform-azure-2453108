@@ -93,3 +93,6 @@ resource "azurerm_resource_group" "example" {
 
 [lil-course-url]: https://www.linkedin.com/learning/introduction-to-terraform-on-azure
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2453108/2453108-1652374458166-16x9.jpg
+
+![image](https://github.com/Somi-Reddy-Mamidi/terraform-azure-2453108/assets/158804084/5e4f2faf-f9e5-4879-8990-584bb280fe80)
+
